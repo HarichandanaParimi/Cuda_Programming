@@ -1,5 +1,5 @@
 # Cuda_Programming
-1.This is to calulate a polynomial function F of degree d.
+ 1.This is to calulate a polynomial function F of degree d.
 
 2. A CUDA code is written that allocates and fill an array on the CPU and transfer it to the GPU.
 
